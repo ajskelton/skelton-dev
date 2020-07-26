@@ -15,7 +15,10 @@ body {
 
 main {
   min-height: 100vh;
-  background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  //background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
 }
 
 .wrapper {
